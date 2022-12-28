@@ -1,0 +1,2 @@
+# Object-detection_tune
+物体検出DNNのファインチューニングを行うためのメモ
